@@ -7,7 +7,7 @@
 </p>
 
 ### Hi there 👋,
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [avinaash7.github.io](https://avinaash7.github.io/).Follow me on instagram [@_avi_naash_](https://www.instagram.com/_avi_naash_/)
+I am a passionate app developer with a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [avinaash7.github.io](https://avinaash7.github.io/).Follow me on instagram [@_avi_naash_](https://www.instagram.com/_avi_naash_/)
 
 <!--
 **Avinaash7/Avinaash7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
