@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Avinaash7/Avinaash7/main/icon/bg.jpg)](https://avinaash7.github.io/)
+[![Header](https://raw.githubusercontent.com/Avinaash7/Avinaash7/main/icon/bg1.jpg)](https://avinaash7.github.io/)
 
 <p align='center'>
 <a href="https://twitter.com/avinaash2014"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
