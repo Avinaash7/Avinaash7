@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Avinaash7/Avinaash7/main/icon/new.png)](https://avinaash7.github.io/)
 
 <p align='center'>
-<a href="https://twitter.com/avinaash2014"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/_avi_naash_/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/avinaash-muthukumaran-1806981bb/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
